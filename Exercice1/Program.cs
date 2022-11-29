@@ -33,9 +33,10 @@ namespace ConsoleApp1
             else
             {
                 Console.WriteLine(" ce nombre est premier ");
-                   
-             
-            }
+                    Console.WriteLine(" ce nombre est premier ");
+
+
+                }
             }
         }
     }
