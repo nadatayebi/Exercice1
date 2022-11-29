@@ -34,7 +34,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(" ce nombre est premier ");
                    
-                Console.WriteLine(" ce nombre est premier ");
+             
             }
             }
         }
